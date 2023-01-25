@@ -1,4 +1,4 @@
-package com.pratik.www.configserver;
+package com.aveline.www.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
